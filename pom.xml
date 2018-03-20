@@ -8,7 +8,7 @@
 	<name>myweb Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<docker.image.prefix>kumar60</docker.image.prefix>
+		<docker.image.prefix>kumar60/myweb:0.16.1</docker.image.prefix>
 	</properties>	
 	<dependencies>
 		<dependency>
